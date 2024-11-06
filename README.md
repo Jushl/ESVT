@@ -1,4 +1,4 @@
-# Event-based Vision Transformer
+# Event-based Streaming Vision Transformer
 Event-based Streaming Vision Transformerfor Challenging Object Detection
 
 ![image](fig/results.png)
